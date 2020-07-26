@@ -1,6 +1,6 @@
 # code-refactoring
 
-Homework 1: Code Refactor Due 6/27
+Homework 1: Code Refactor
 
 This homework project consisted of code refactoring which refers to the process of editing and cleaning up previously written code without altering the function of the code. Essentially, this makes the code more efficient and accessible. 
 
