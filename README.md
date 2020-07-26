@@ -1,4 +1,4 @@
-# hw-1-refactoring
+# code-refactoring
 
 Homework 1: Code Refactor Due 6/27
 
